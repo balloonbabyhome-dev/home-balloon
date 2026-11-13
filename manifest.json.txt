@@ -1,0 +1,16 @@
+{
+  "name": "Home Balloon",
+  "short_name": "Home Balloon",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFFBF5",
+  "theme_color": "#FF7A00",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
